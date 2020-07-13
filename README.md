@@ -144,9 +144,5 @@ The result is:
 ![angular-countries](https://raw.githubusercontent.com/smikodanic/angular-countries/master/angular-countries2.png "Selectable country list")
 
 
-## 8. Licence
-*Copyright (c) 2016 Saša Mikodanić*
-
-Licensed under [MIT](https://opensource.org/licenses/MIT) .
 
 
